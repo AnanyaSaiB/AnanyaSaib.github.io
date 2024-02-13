@@ -9,7 +9,7 @@ author_profile: true
 - A Survey of Evaluation Metrics Used for NLG Systems - <b>ACM Computing Surveys</b> (2022) <br/>
 Ananya B. Sai, Akash Kumar Mohankumar, Mitesh M. Khapra ([link](https://dl.acm.org/doi/full/10.1145/3485766)) <br/>
 - Improving Dialog Evaluation with a Multi-reference Adversarial Dataset and Large Scale Pretraining <b>TACL</b> (2020) <br/>
-  Ananya B. Sai* , Akash Kumar Mohankumar* , Siddhartha Arora , Mitesh M. Khapra ([link](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00347))<br/>
+  Ananya B. Sai* , Akash Kumar Mohankumar* , Siddhartha Arora , Mitesh M. Khapra ( ∗ denotes equal contribution) ([link](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00347))<br/>
 
 ## Conference
 - IndicMT Eval: A Dataset to Meta-Evaluate Machine Translation Metrics for Indian Languages - <b>ACL</b> (2023) <br/>
@@ -26,3 +26,9 @@ Soham Parikh ∗ Ananya B. Sai ∗ , Preksha Nema ∗ , Mitesh M. Khapra ( ∗ d
 ## Workshop
 - Closing the Gap in the Trade-off between Fair Representations and Accuracy in <b>AAAI-DAI</b> (2024) <br/>
 Biswajit Rout, Ananya B. Sai, Arun Rajkumar <br/>
+
+## Preprints
+- NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation <br/>
+K. D. Dhole, V. Gangal, S. Gehrmann, Ananya B. Sai, and et al. ([link](https://arxiv.org/abs/2112.02721))
+- Frustratingly Poor Performance of Reading Comprehension Models on Non-adversarial Examples <br/>
+S. Parikh, Ananya B. Sai, P. Nema, and M. M. Khapra ([link](http://arxiv.org/abs/1904.02665))
