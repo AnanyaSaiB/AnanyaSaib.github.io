@@ -17,11 +17,8 @@ My research interests include Generative AI and its Evaluation, Adversarial Atta
 You can reach me at ananya[at]cse[dot]iitm[dot]ac[dot]in or locate me in [RBCDSAI](https://rbcdsai.iitm.ac.in/contact/), IIT Madras.
 
 ## News
-### Upcoming
-- **20-02-2024** Attending AAAI at Vancouver, Canada to present out paper *'Closing the gap in the trade-off between fair
+- $${\color{red}Upcoming}$$ **20-02-2024** Attending AAAI at Vancouver, Canada to present out paper *'Closing the gap in the trade-off between fair
 representations and accuracy'* at Deployable AI workshop.
-- **01-02-2024** Selected to participate in [Google research week](https://sites.google.com/view/researchweek24/home) at Banglore, India.
-
-### Past
+- **01-02-2024** Participated in [Google research week](https://sites.google.com/view/researchweek24/home) at Banglore, India.
 - **04-12-2023** Invited as Young Ambassador to particiapte in [Global Technology Summit](https://carnegieindia.org/specialprojects/globaltechnologysummit) at New Delhi, India.
 - **06-12-2023** Attended EMNLP 2023 at Singapore.
